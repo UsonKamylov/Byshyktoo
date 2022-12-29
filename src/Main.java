@@ -3,6 +3,7 @@ public class Main {
 
        String [] array ={"Asan  ","Bakyt  "};
         for (String a : array){
+            System.out.println();
             System.out.println(a+  "men seni jakshy korom");
         }
 
